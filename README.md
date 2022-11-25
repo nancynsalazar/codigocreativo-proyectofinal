@@ -36,7 +36,7 @@ A continuación, las instrucciones:
 # Recursos Adicionales
 * [Ejemplos de Reportes](https://drive.google.com/drive/folders/1lwjDgJMu1tDFRXjYPaFUHUpgQgtw9oEP?usp=share_link)
 * Video [Representar gráficos con pandas, ciencia de datos, barras, pastel, dispersión, histograma y más.](https://youtu.be/JUPi6Oo8stQ)
-* Notebook del [Ejercicio del Titanic](https://colab.research.google.com/drive/1fMmvYpT4I4O06JaqpmHvXDaHs_7lg4Ru?usp=sharing)
+* Notebook del [Ejercicio del Titanic](https://colab.research.google.com/drive/12mcbkQj5IKuGygoosoaLPIXLdU-jFnsd?usp=sharing)
 
 
 Happy coding!💗💻
