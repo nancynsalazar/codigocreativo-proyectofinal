@@ -26,7 +26,7 @@ A continuación, las instrucciones:
    - Introducción
    - Mínimo 3 gráficas con storytelling
    - Conclusiones del reporte de acuerdo al análisis realizado
-   - Conclusión individual de cada integrante del equipo relacionada con la actividad realizada
+   - Conclusión individual de cada integrante del equipo compartiendo lo aprendido relacionado con esta actividad realizada
    - Nombres completos de los integrantes del equipo
    - Link a su notebook de Google Colab con la actividad realizada 
 15. Revisa el deadline para subir este reporte en la plataforma de Brightspace
