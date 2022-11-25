@@ -21,7 +21,14 @@ A continuación, las instrucciones:
 11. Analizar cuáles columnas se pueden categorizar para visualizar en una gráfica (no todas las columnas son candidatas para visualizarse, ejemplo, columna de 'nombres')
 12. Graficar columnas del dataset seleccionado en cualquiera de los formatos de gráficas (pastel, barras, dispersión, etc.) que nos puedan proporcionar hipotesis o hallazgos
 13. Usando la información encontrada en los pasos anteriores, bajarla a un reporte en la que con apoyo del storytelling, argumenten sus hallazgos o hipotesis
-14. Subir el reporte en formato PDF a Brightspace, incluyendo en ese reporte los nombres completos de los integrantes del equipo, así como el link a su notebook de Google Colab (1 representante del equipo se encargará de subirlo)
+14. Subir de manera individual el reporte en formato PDF a Brightspace, incluyendo lo siguiente:
+   - Portada
+   - Introducción
+   - Mínimo 3 gráficas con storytelling
+   - Conclusiones del reporte de acuerdo al análisis realizado
+   - Conclusión individual de cada integrante del equipo relacionada con la actividad realizada
+   - Nombres completos de los integrantes del equipo
+   - Link a su notebook de Google Colab con la actividad realizada 
 15. Revisa el deadline para subir este reporte en la plataforma de Brightspace
 
 
