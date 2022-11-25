@@ -11,10 +11,10 @@ A continuación, las instrucciones:
 1. Seleccionar con tu equipo algún dataset de [Kaggle](https://www.kaggle.com/) que deseen analizar
 2. Revisar que el contenido del dataset sea adecuado para que se pueda visualizar en gráficas
 3. Reducir su dataset a mínimo 50 filas máximo 100 filas
-4. Importar en Google Colab librerías Pandas, Seaborn y Matplotlib
+4. Importar en Google Colab librerías Pandas, Seaborn y/o Matplotlib
 5. Importar el dataset en [Google Colab](https://colab.research.google.com/)
 6. Previsualizar los primeros datos utilizando el método `head`
-7. Ver las dimensiones que tiene nuestro dataset utilizando el método `sample`
+7. Ver las dimensiones que tiene nuestro dataset utilizando el método `shape`
 8. Visualizar si tengo los datos completos en mis filas utilizando el método `count`
 9. Rellenar los campos que estén vacios o nulos (NaN) utilizando el método `fillna`
 10. Visualizar la información estadística utilizando el método `describe`
