@@ -37,6 +37,7 @@ A continuación, las instrucciones:
 * [Ejemplos de Reportes](https://drive.google.com/drive/folders/1lwjDgJMu1tDFRXjYPaFUHUpgQgtw9oEP?usp=share_link)
 * Video [Representar gráficos con pandas, ciencia de datos, barras, pastel, dispersión, histograma y más.](https://youtu.be/JUPi6Oo8stQ)
 * Notebook del [Ejercicio del Titanic](https://colab.research.google.com/drive/12mcbkQj5IKuGygoosoaLPIXLdU-jFnsd?usp=sharing)
+* Video [Cómo usar LOOM Grabador de pantalla](https://www.youtube.com/watch?v=Q7mrGP_JNUw)
 
 
 Happy coding!💗💻
