@@ -20,7 +20,7 @@ A continuación, las instrucciones:
 10. Visualizar la información estadística utilizando el método `describe`
 11. Analizar cuáles columnas se pueden categorizar para visualizar en una gráfica (no todas las columnas son candidatas para visualizarse, ejemplo, columna de 'nombres')
 12. Graficar columnas del dataset seleccionado en cualquiera de los formatos de gráficas (pastel, barras, dispersión, etc.) que nos puedan proporcionar hipotesis o hallazgos
-13. Usando la información encontrada en los pasos anteriores, bajarla a un reporte en la que con apoyo del storytelling, argumenten sus hallazgos o hipotesis
+13. Usando la información encontrada en los pasos anteriores, bajarla a un reporte en la que con apoyo de Storytelling, argumenten sus hallazgos o hipotesis
 14. Subir de manera individual el reporte en formato PDF a Brightspace, incluyendo lo siguiente:
    - Portada
    - Introducción
@@ -29,6 +29,7 @@ A continuación, las instrucciones:
    - Conclusión individual de cada integrante del equipo compartiendo lo aprendido relacionado con esta actividad realizada
    - Nombres completos de los integrantes del equipo
    - Link a su notebook de Google Colab con la actividad realizada 
+   - Link con un [Loom](https://loom.com/) grabado por un(a) integrante del equipo en donde explique el reporte realizado (la versión gratuita te permite grabar hasta 5 minutos)
 15. Revisa el deadline para subir este reporte en la plataforma de Brightspace
 
 
